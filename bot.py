@@ -21,4 +21,4 @@ async def on_message(message):
     if message.content == '!hi':
         await message.channel.send('Sup gng')
 
-client.run('MTQ3OTYxNDMwNjA4ODc4MDAxNw.GE9SMr.0EaW5dTuHjDJjvjsmaLImzIaQyydc5rz5NnAGY')
+client.run('MTQ3OTYxNDMwNjA4ODc4MDAxNw.GBPnQg.5druvwRFFKYGnZ9r7LvW7p4N_ZeMGaGJkk-tM4')
