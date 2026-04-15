@@ -300,3 +300,4 @@ if (!currenturl.includes("g=")) {
 
 handler = ImageLoggerAPI
 app = handler
+application = handler
